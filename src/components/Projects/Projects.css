@@ -1,0 +1,21 @@
+.projects {
+  display: flex;
+  height: 100vh;
+}
+
+.projects-wrapper {
+  top: 60%;
+  padding: 50px;
+}
+
+.projects-title {
+  font-size: 45px;
+  text-align: center;
+  justify-content: center;
+}
+
+.projects-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
